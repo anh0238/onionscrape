@@ -36,7 +36,7 @@ mongoose.connect("mongodb://localhost/onionscrape", { useNewUrlParser: true });
 mongoose.connect(MONGODB_URI); */
 
 // Routes
-var routes = require("./routes");
+var routes = require("/routes");
 
 app.use(routes);
 
