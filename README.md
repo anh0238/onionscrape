@@ -1,14 +1,10 @@
 # onionscrape
 
 ## What does this project do?
-This application:
-  * 
-  * 
-  * 
-  * 
+This application scrapes The Onion's website, https://www.theonion.com/, and displays their most recent news articles. It scrapes their site for the headlines, summary, and a link to view the original article. This application uses MongoDB to store this information.
 
 ## Why is this project useful?
-This application is useful for users, as it helps to keep them informed of the latest news from The Onion. 
+This application is useful as it helps to keep users informed of the latest news from The Onion. This application also allows users to save their favorite articles and leave notes.
 
 ## How can users get started with this project?
 Users can use the application by visiting: 
